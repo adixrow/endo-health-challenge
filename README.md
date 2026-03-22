@@ -2,6 +2,8 @@
 
 Automatische Generierung konsistenter Header-Bilder für Blog-Posts von [endometriose.app](https://endometriose.app) — mit AI-Chaining.
 
+**[Live-Demo](https://endo-health-challenge-bjixpsecrnnmvbuymbfylb.streamlit.app/)** | **[Workflow-Beschreibung](WORKFLOW.md)**
+
 ## Architektur
 
 ```
